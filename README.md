@@ -1,4 +1,4 @@
-# To-do list - react
+# <img src="public/web-icon3.png" height="30"/> To-do list - react
 ![To-do list](public/To-do-list2.png) 
 ## Demo
 [See my to-do list](https://justynaboesche.github.io/To-do-list-react/)
