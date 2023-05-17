@@ -7,13 +7,10 @@ import Container from "./Container";
 import { useTasks } from './useTasks';
 
 function App() {
-
-  const toggleHideDone = () => {
-    setHideDone(hideDone => !hideDone);
-  };
-
   const {
     tasks,
+    hideDone,
+    toggleHideDone,
     removeTask,
     toggleTaskDone,
     setAllDone,
