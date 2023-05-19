@@ -51,6 +51,7 @@ export const useTasks = () => {
 
   return {
     tasks,
+    hideDone,
     removeTask,
     toggleTaskDone,
     setAllDone,
